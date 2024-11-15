@@ -1,6 +1,8 @@
 import './style.css';
 import _ from 'underscore';
 
+//ESTE ES UN COMMIT DE PRUEBA
+
 /**
  * 2C = Two of Clubs
  * 2D = Two of Diamonds
@@ -26,6 +28,10 @@ const divCartasComputadora = document.querySelector('#computadora-cartas');
 const puntosHTML = document.querySelectorAll('small');
 
 // Esta función crea un nuevo deck
+/**
+ * esta funcion crea un nuevo deck
+ * @returns {Array<String>} retorna un nuevo deck de cartas
+ */
 const crearDeck = () => {
   for (let i = 2; i <= 10; i++) {
     for (let tipo of tipos) {
