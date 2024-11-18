@@ -1,3 +1,11 @@
-# 04-BLACKJACK-VITE
+# Blackjack vite
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rodrigorgv/04-BLACKJACK-VITE)
+pasos para ejecutar el proyecto:
+
+1. clonar el repositorio
+2. ejecutar ```npm install``` para reconstruir los modulos de node
+3. correr el devServer ```npm run dev```
+4. abrir el proyecto en ```localhost:3000```
+
+
+## producción
